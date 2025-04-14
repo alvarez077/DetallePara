@@ -141,13 +141,14 @@ particlesJS("particles-js", {
 });
 
 const mensajes = [
-    "Eres mi razón de sonreír cada día. 💖",
-    "Contigo, cada momento es especial. 🌟",
-    "Tu amor es mi mayor tesoro. 🏆",
-    "Eres mi hoy, mi mañana y mi siempre. 🌹",
-    "Gracias por hacerme tan feliz. 😊",
-    "Eres la mejor parte de mi día. ☀️",
-    "Mi corazón late por ti. 💓",
+    "Eres mi lugar favorito. 💖",
+    "Eres como mi canción favorita: no me canso de repetirte. 🌟",
+    "Eres mi persona favorita, después del jugo de maracuyá… pero no te pongas celosa. 🥴",
+    "Si fueras un error gramatical, igual te seguiría queriendo (pero con el corrector activado). 🥱",
+    "Quiero envejecer contigo… pero primero, pedir comida y ver una serie. 😊",
+    "Me gustas como a Morat le gusta sufrir por amor… solo que yo prefiero disfrutarlo contigo. ☀️",
+    "Eres la única maestra a la que quiero entregarle la tarea del corazón. 💓",
+    "Tú y yo somos como una canción de Morat: un poquito cursis, un poquito locos, totalmente perfectos. 🥰",
 ];
 
 const mensajeTexto = document.getElementById("mensaje-texto");
