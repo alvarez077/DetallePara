@@ -120,7 +120,7 @@ particlesJS("particles-js", {
     },
     move: {
       enable: true,
-      speed: 1, // Velocidad de caída
+      speed: 7, // Velocidad de caída
       direction: "top", // Dirección hacia abajo
       random: true,
       straight: false,
