@@ -104,7 +104,7 @@ window.addEventListener("load", () => {
 particlesJS("particles-js", {
   particles: {
     number: {
-      value: 10, // Número de partículas (corazones)
+      value: 7, // Número de partículas (corazones)
       density: {
         enable: true,
         value_area: 800,
@@ -113,7 +113,7 @@ particlesJS("particles-js", {
     shape: {
       type: "image",
       image: {
-        src: "https://img.icons8.com/?size=100&id=12306&format=png&color=000000", // Aquí puedes usar cualquier imagen de corazón
+        src: "https://emojitool.com/img/google/15.1/15.1-3361.png", // Aquí puedes usar cualquier imagen de corazón
         width: 2,
         height: 2,
       },
